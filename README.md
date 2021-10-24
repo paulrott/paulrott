@@ -1,0 +1,5 @@
+ - Hi, I’m @paulrott
+- 👀 I’m interested in project managment.
+- 🌱 I’m currently learning in Swiss International Institute Lausanne
+- 💞️ I’m looking to collaborate on internet of things  development.
+- 📫 Telegram: @paulgromof 
